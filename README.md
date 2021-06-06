@@ -1,3 +1,5 @@
+This notebook used Python Version 3.8.8.
+
 # Data Scientist Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML

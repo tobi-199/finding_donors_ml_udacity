@@ -1,4 +1,4 @@
-This notebook used Python Version 3.8.8.
+This notebook was used with Python Version 3.8.8.
 
 # Data Scientist Nanodegree
 # Supervised Learning
